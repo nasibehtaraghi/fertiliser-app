@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fertiliser-app/static/css/main.b27ca1ce.chunk.css",
+    "main.js": "/fertiliser-app/static/js/main.9a4900b9.chunk.js",
+    "main.js.map": "/fertiliser-app/static/js/main.9a4900b9.chunk.js.map",
+    "runtime-main.js": "/fertiliser-app/static/js/runtime-main.a816908e.js",
+    "runtime-main.js.map": "/fertiliser-app/static/js/runtime-main.a816908e.js.map",
+    "static/js/2.00acc919.chunk.js": "/fertiliser-app/static/js/2.00acc919.chunk.js",
+    "static/js/2.00acc919.chunk.js.map": "/fertiliser-app/static/js/2.00acc919.chunk.js.map",
+    "static/js/3.795cefff.chunk.js": "/fertiliser-app/static/js/3.795cefff.chunk.js",
+    "static/js/3.795cefff.chunk.js.map": "/fertiliser-app/static/js/3.795cefff.chunk.js.map",
+    "index.html": "/fertiliser-app/index.html",
+    "static/css/main.b27ca1ce.chunk.css.map": "/fertiliser-app/static/css/main.b27ca1ce.chunk.css.map",
+    "static/js/2.00acc919.chunk.js.LICENSE.txt": "/fertiliser-app/static/js/2.00acc919.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a816908e.js",
+    "static/js/2.00acc919.chunk.js",
+    "static/css/main.b27ca1ce.chunk.css",
+    "static/js/main.9a4900b9.chunk.js"
+  ]
+}
